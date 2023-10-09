@@ -1,0 +1,11 @@
+langchain[llms]
+google-cloud-aiplatform==1.33.1
+google-cloud-secret-manager==0.2.0
+flake8==6.1.0
+flake8-black==0.3.6
+python-decouple==3.8
+loguru==0.7.2
+pyclean==2.7.4
+fastapi==0.103.2
+uvicorn==0.23.2
+openai==0.28.1

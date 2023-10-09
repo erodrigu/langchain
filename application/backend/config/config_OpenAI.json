@@ -1,0 +1,6 @@
+{
+    "model_type": "openai",
+    "model_name": "gpt-3.5-turbo-instruct",
+    "temperature": 0.0,
+    "api_key":"sk-2342ajuD1mDl7eL2f7Dbyqd9CRRg"
+}

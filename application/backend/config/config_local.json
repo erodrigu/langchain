@@ -1,0 +1,6 @@
+{
+  "model_type": "Ollama",
+  "model_name": "orca-mini",
+  "temperature": 0.0,
+  "api_key": ""
+}
