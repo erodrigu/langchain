@@ -2,7 +2,7 @@ from loguru import logger
 from config.config_loader import load_config
 from models.language_model_factory import LanguageModelFactory
 from prompts.prompt_executor import PromptExecutor
-from prompts.sample_prompts import generate_prompts
+from prompts.sample_prompts import generate_prompts, generate_chat_prompts
 from utils.logger_config import configure_logger
 
 # from langchain.prompts import PromptTemplate
@@ -28,9 +28,11 @@ def main(user_input=None):
         )
 
         configure_logger()
-
-        prompts = generate_prompts(user_input)
-
+        
+        if "chat" in model.model_type:
+            prompts = generate_chat_prompts(user_input)
+        else:
+            prompts = generate_prompts(user_input)
 
         prompt_executor = PromptExecutor(model, prompts)
         for i, output in enumerate(prompt_executor.execute_prompts()):

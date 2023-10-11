@@ -1,9 +1,7 @@
 import langchain
 from langchain.cache import SQLiteCache
-from langchain.llms import Ollama
-from langchain.llms import OpenAI
-from langchain.llms import VertexAI
-from langchain.chat_models import ChatOpenAI
+from langchain.llms import Ollama, OpenAI, VertexAI
+from langchain.chat_models import ChatOpenAI, ChatVertexAI
 
 langchain.llm_cache = SQLiteCache(database_path=".langchain.db")
 
@@ -25,6 +23,10 @@ class LanguageModelFactory:
             if api_key is None:
                 raise ValueError("External model requires a configuration")
             return COAI(model_type, model_name, cache, temperature, api_key)
+        elif model_type.lower() == "chatvertexai":
+            if api_key is None:
+                raise ValueError("External model requires a configuration")
+            return CVAI(model_type, model_name, cache, temperature, api_key)
         else:
             raise ValueError(f"Invalid model type: {model_type}")
 
@@ -68,6 +70,14 @@ class VAI(BaseModel):
 class COAI(BaseModel):
     def run_prompt(self, prompt):
         return ChatOpenAI(
+            openai_api_key=self.apikey,
+            model=self.model_name,
+            temperature=self.temperature,
+        )(prompt)
+        
+class CVAI(BaseModel):
+    def run_prompt(self, prompt):
+        return ChatVertexAI(
             openai_api_key=self.apikey,
             model=self.model_name,
             temperature=self.temperature,

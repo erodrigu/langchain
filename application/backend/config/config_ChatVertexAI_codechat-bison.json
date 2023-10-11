@@ -1,6 +1,6 @@
 {
     "model_type": "chatvertexai",
-    "model_name": "chat-bison",
+    "model_name": "codechat-bison",
     "cache": "True",
     "temperature": 0.0,
     "api_key":""
