@@ -4,10 +4,8 @@ class PromptExecutor:
         self.prompts = prompts
 
     def execute_prompts(self):
-        outputs = []
-
+        outputs = []        
         for prompt in self.prompts:
             output = self.model.run_prompt(prompt)
             outputs.append(output)
-
         return outputs

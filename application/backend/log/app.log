@@ -247,3 +247,183 @@ The
 Photosynthesis takes place in the chloroplasts of plant cells. Chloroplasts are small, green organelles that contain chlorophyll, a pigment that absorbs sunlight. When sunlight strikes chlorophyll, it causes electrons to be excited to a higher energy level. These excited electrons are then used to create ATP and NADPH, two energy-rich molecules that are used to power the reactions of photosynthesis.
 
 The
+2023-10-10 13:06:37 | INFO     | __main__:main:35 - Prompt 1 Output:
+2023-10-10 13:06:37 | INFO     | __main__:main:36 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. 
+
+The theory of relativity is a scientific explanation of how time and space are related to each other.
+
+Ancient Rome was a powerful civilization that existed thousands of years ago and had a significant impact on the development of Western culture.
+2023-10-10 13:06:37 | INFO     | __main__:main:35 - Prompt 2 Output:
+2023-10-10 13:06:37 | INFO     | __main__:main:36 - `
+
+Photosynthesis is a process that occurs in plants and some microorganisms, where light energy is converted into chemical energy. This process involves the absorption of light by pigments, such as chlorophyll, which then triggers a series of chemical reactions that result in the production of glucose and oxygen. The glucose is used as a source of energy for the plant, while the oxygen is released into the atmosphere. This process is essential for the survival of plants and plays a crucial role in the Earth's ecosystem.
+
+The theory of relativity, proposed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, while the general theory of relativity explains the effects of gravity on the fabric of space-time. This theory has been extensively tested and has revolutionized our understanding of the universe.
+
+Ancient Rome was a civilization that existed from the 8th century BC to the 5th century AD. It was founded in the city of Rome and grew to become one of the largest and most powerful empires in the world. The Romans
+2023-10-10 13:09:12 | ERROR    | __main__:main:38 - An error occurred: Got unknown type R
+2023-10-10 13:10:58 | ERROR    | __main__:main:38 - An error occurred: Got unknown type R
+2023-10-10 13:16:06 | ERROR    | __main__:main:38 - An error occurred: 'NoneType' object is not iterable
+2023-10-10 13:16:43 | INFO     | __main__:main:35 - Prompt 1 Output:
+2023-10-10 13:16:43 | INFO     | __main__:main:36 - 1
+2023-10-10 13:16:43 | INFO     | __main__:main:35 - Prompt 2 Output:
+2023-10-10 13:16:43 | INFO     | __main__:main:36 - 2
+2023-10-10 13:17:50 | INFO     | __main__:main:35 - Prompt 1 Output:
+2023-10-10 13:17:50 | INFO     | __main__:main:36 - 1
+2023-10-10 13:17:50 | INFO     | __main__:main:35 - Prompt 2 Output:
+2023-10-10 13:17:50 | INFO     | __main__:main:36 - 2
+2023-10-10 13:18:56 | ERROR    | __main__:main:38 - An error occurred: Got unknown type t
+2023-10-10 13:20:08 | ERROR    | __main__:main:38 - An error occurred: name 'output' is not defined
+2023-10-10 13:22:06 | ERROR    | __main__:main:38 - An error occurred: Got unknown type R
+2023-10-10 13:23:27 | ERROR    | __main__:main:39 - An error occurred: Got unknown type W
+2023-10-10 15:27:17 | ERROR    | __main__:main:39 - An error occurred: Got unknown type W
+2023-10-10 15:30:15 | ERROR    | __main__:main:39 - An error occurred: Got unknown type p
+2023-10-10 15:45:21 | ERROR    | __main__:main:39 - An error occurred: Deadline of 120.0s exceeded while calling target function, last exception: 503 DNS resolution failed for us-central1-aiplatform.googleapis.com:443: C-ares status is not ARES_SUCCESS qtype=A name=us-central1-aiplatform.googleapis.com is_balancer=0: Timeout while contacting DNS servers
+2023-10-10 15:57:04 | INFO     | __main__:main:36 - Prompt 1 Output:
+2023-10-10 15:57:04 | INFO     | __main__:main:37 -  Photosynthesis is the process by which plants use sunlight to make food, The theory of relativity explains how space and time are related, and Ancient Rome was a civilization that lasted from 753 BC to 476 AD.
+2023-10-10 15:57:04 | INFO     | __main__:main:36 - Prompt 2 Output:
+2023-10-10 15:57:04 | INFO     | __main__:main:37 -  Photosynthesis is the process by which plants and other organisms use sunlight to convert carbon dioxide and water into energy-rich molecules, such as glucose. This process is essential for life on Earth, as it provides the oxygen and food that we need to survive.
+
+Photosynthesis takes place in the chloroplasts of plant cells. Chloroplasts are small, green organelles that contain chlorophyll, a pigment that absorbs sunlight. When sunlight strikes chlorophyll, it causes electrons to be excited to a higher energy level. These excited electrons are then used to create ATP and NADPH, two energy-rich molecules that are used to power the reactions of photosynthesis.
+
+The
+2023-10-10 15:57:33 | ERROR    | __main__:main:39 - An error occurred: Incorrect API key provided: sk-2342a*******************CRRg. You can find your API key at https://platform.openai.com/account/api-keys.
+2023-10-10 15:57:56 | INFO     | __main__:main:36 - Prompt 1 Output:
+2023-10-10 15:57:56 | INFO     | __main__:main:37 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. 
+
+The theory of relativity is a scientific explanation of how time and space are related to each other.
+
+Ancient Rome was a powerful civilization that existed thousands of years ago and had a significant impact on the development of Western culture.
+2023-10-10 15:57:56 | INFO     | __main__:main:36 - Prompt 2 Output:
+2023-10-10 15:57:56 | INFO     | __main__:main:37 - `
+
+Photosynthesis is a process that occurs in plants and some microorganisms, where light energy is converted into chemical energy. This process involves the absorption of light by pigments, such as chlorophyll, which then triggers a series of chemical reactions that result in the production of glucose and oxygen. The glucose is used as a source of energy for the plant, while the oxygen is released into the atmosphere. This process is essential for the survival of plants and plays a crucial role in the Earth's ecosystem.
+
+The theory of relativity, proposed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, while the general theory of relativity explains the effects of gravity on the fabric of space-time. This theory has been extensively tested and has revolutionized our understanding of the universe.
+
+Ancient Rome was a civilization that existed from the 8th century BC to the 5th century AD. It was founded in the city of Rome and grew to become one of the largest and most powerful empires in the world. The Romans
+2023-10-10 15:58:56 | ERROR    | __main__:main:39 - An error occurred: Got unknown type R
+2023-10-10 16:13:23 | ERROR    | __main__:main:39 - An error occurred: Got unknown type R
+2023-10-10 16:14:17 | INFO     | __main__:main:36 - Prompt 1 Output:
+2023-10-10 16:14:17 | INFO     | __main__:main:37 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. 
+
+The theory of relativity is a scientific explanation of how time and space are related to each other.
+
+Ancient Rome was a powerful civilization that existed thousands of years ago and had a significant impact on the development of Western culture.
+2023-10-10 16:14:17 | INFO     | __main__:main:36 - Prompt 2 Output:
+2023-10-10 16:14:17 | INFO     | __main__:main:37 - `
+
+Photosynthesis is a process that occurs in plants and some microorganisms, where light energy is converted into chemical energy. This process involves the absorption of light by pigments, such as chlorophyll, which then triggers a series of chemical reactions that result in the production of glucose and oxygen. The glucose is used as a source of energy for the plant, while the oxygen is released into the atmosphere. This process is essential for the survival of plants and plays a crucial role in the Earth's ecosystem.
+
+The theory of relativity, proposed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, while the general theory of relativity explains the effects of gravity on the fabric of space-time. This theory has been extensively tested and has revolutionized our understanding of the universe.
+
+Ancient Rome was a civilization that existed from the 8th century BC to the 5th century AD. It was founded in the city of Rome and grew to become one of the most powerful and influential empires in history. The Romans were
+2023-10-10 16:16:59 | INFO     | __main__:main:36 - Prompt 1 Output:
+2023-10-10 16:16:59 | INFO     | __main__:main:37 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. 
+
+The theory of relativity is a scientific explanation of how time and space are related to each other.
+
+Ancient Rome was a powerful civilization that existed thousands of years ago and had a significant impact on the development of Western culture.
+2023-10-10 16:16:59 | INFO     | __main__:main:36 - Prompt 2 Output:
+2023-10-10 16:16:59 | INFO     | __main__:main:37 - `
+
+Photosynthesis is a process that occurs in plants and some microorganisms, where light energy is converted into chemical energy. This process involves the absorption of light by pigments, such as chlorophyll, which then triggers a series of chemical reactions that result in the production of glucose and oxygen. The glucose is used as a source of energy for the plant, while the oxygen is released into the atmosphere. This process is essential for the survival of plants and plays a crucial role in the Earth's ecosystem.
+
+The theory of relativity, proposed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, while the general theory of relativity explains the effects of gravity on the fabric of space-time. This theory has been extensively tested and has revolutionized our understanding of the universe.
+
+Ancient Rome was a civilization that existed from the 8th century BC to the 5th century AD. It was founded in the city of Rome and grew to become one of the largest and most powerful empires in the world. The Romans
+2023-10-10 16:17:20 | INFO     | __main__:main:36 - Prompt 1 Output:
+2023-10-10 16:17:20 | INFO     | __main__:main:37 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. 
+
+The theory of relativity is a scientific explanation of how time and space are related to each other.
+
+Ancient Rome was a powerful civilization that existed thousands of years ago and had a significant impact on the development of Western culture.
+2023-10-10 16:17:20 | INFO     | __main__:main:36 - Prompt 2 Output:
+2023-10-10 16:17:20 | INFO     | __main__:main:37 - `
+
+Photosynthesis is a process that occurs in plants and some microorganisms, where light energy is converted into chemical energy. This process involves the absorption of light by pigments, such as chlorophyll, which then triggers a series of chemical reactions that result in the production of glucose and oxygen. The glucose is used as a source of energy for the plant, while the oxygen is released into the atmosphere. This process is essential for the survival of plants and plays a crucial role in the Earth's ecosystem.
+
+The theory of relativity, proposed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, while the general theory of relativity explains the effects of gravity on the fabric of space-time. This theory has been extensively tested and has revolutionized our understanding of the universe.
+
+Ancient Rome was a civilization that existed from the 8th century BC to the 5th century AD. It was founded in the city of Rome and grew to become one of the largest and most powerful empires in the world. The Romans
+2023-10-10 16:32:37 | INFO     | __main__:main:36 - Prompt 1 Output:
+2023-10-10 16:32:37 | INFO     | __main__:main:37 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. 
+
+The theory of relativity is a scientific explanation of how time and space are related to each other.
+
+Ancient Rome was a powerful civilization that existed thousands of years ago and had a significant impact on the development of Western culture.
+2023-10-10 16:32:37 | INFO     | __main__:main:36 - Prompt 2 Output:
+2023-10-10 16:32:37 | INFO     | __main__:main:37 - `
+
+Photosynthesis is a process that occurs in plants and some microorganisms, where light energy is converted into chemical energy. This process involves the absorption of light by pigments, such as chlorophyll, which then triggers a series of chemical reactions that result in the production of glucose and oxygen. The glucose is used as a source of energy for the plant, while the oxygen is released into the atmosphere. This process is essential for the survival of plants and plays a crucial role in the Earth's ecosystem.
+
+The theory of relativity, proposed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, while the general theory of relativity explains the effects of gravity on the fabric of space-time. This theory has been extensively tested and has revolutionized our understanding of the universe.
+
+Ancient Rome was a civilization that existed from the 8th century BC to the 5th century AD. It was founded in the city of Rome and grew to become one of the largest and most powerful empires in the world. The Romans
+2023-10-10 16:44:05 | ERROR    | __main__:main:40 - An error occurred: 1 validation error for OpenAI
+temperature
+  value is not a valid float (type=type_error.float)
+2023-10-10 17:01:23 | ERROR    | __main__:main:40 - An error occurred: 1 validation error for OpenAI
+temperature
+  value is not a valid float (type=type_error.float)
+2023-10-10 17:02:14 | ERROR    | __main__:main:40 - An error occurred: 1 validation error for OpenAI
+temperature
+  value is not a valid float (type=type_error.float)
+2023-10-10 17:03:34 | ERROR    | __main__:main:40 - An error occurred: 1 validation error for OpenAI
+temperature
+  value is not a valid float (type=type_error.float)
+2023-10-10 17:04:52 | ERROR    | __main__:main:40 - An error occurred: 1 validation error for OpenAI
+temperature
+  value is not a valid float (type=type_error.float)
+2023-10-10 17:05:32 | INFO     | __main__:main:37 - Prompt 1 Output:
+2023-10-10 17:05:32 | INFO     | __main__:main:38 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. The theory of relativity is a scientific explanation of how time and space are related. Ancient Rome was a powerful civilization that existed thousands of years ago.
+2023-10-10 17:05:32 | INFO     | __main__:main:37 - Prompt 2 Output:
+2023-10-10 17:05:32 | INFO     | __main__:main:38 - `
+
+Photosynthesis is a complex biochemical process that occurs in plants, algae, and some bacteria. It involves the conversion of light energy from the sun into chemical energy in the form of glucose, which is used by the organism for growth and other metabolic processes. This process takes place in specialized organelles called chloroplasts, which contain the pigment chlorophyll. Chlorophyll absorbs light energy and uses it to split water molecules into hydrogen and oxygen. The hydrogen is then combined with carbon dioxide from the air to produce glucose, while the oxygen is released back into the atmosphere. This process is essential for sustaining life on Earth, as it is the primary source of oxygen and food for most living organisms.
+
+The theory of relativity, developed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, regardless of their relative velocity. It also introduces the concept of time dilation, where time appears to pass slower for objects moving at high speeds. The general theory of relativity expands on this by describing the effects of gravity on the
+2023-10-10 17:05:53 | INFO     | __main__:main:37 - Prompt 1 Output:
+2023-10-10 17:05:53 | INFO     | __main__:main:38 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. The theory of relativity is a scientific explanation of how time and space are related. Ancient Rome was a powerful civilization that existed thousands of years ago.
+2023-10-10 17:05:53 | INFO     | __main__:main:37 - Prompt 2 Output:
+2023-10-10 17:05:53 | INFO     | __main__:main:38 - `
+
+Photosynthesis is a complex biochemical process that occurs in plants, algae, and some bacteria. It involves the conversion of light energy from the sun into chemical energy in the form of glucose, which is used by the organism for growth and other metabolic processes. This process takes place in specialized organelles called chloroplasts, which contain the pigment chlorophyll. Chlorophyll absorbs light energy and uses it to split water molecules into hydrogen and oxygen. The hydrogen is then combined with carbon dioxide from the air to produce glucose, while the oxygen is released back into the atmosphere. This process is essential for sustaining life on Earth, as it is the primary source of oxygen and food for most living organisms.
+
+The theory of relativity, developed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, regardless of their relative velocity. It also introduces the concept of time dilation, where time appears to pass slower for objects moving at high speeds. The general theory of relativity expands on this by describing the effects of gravity on the
+2023-10-10 17:05:58 | INFO     | __main__:main:37 - Prompt 1 Output:
+2023-10-10 17:05:58 | INFO     | __main__:main:38 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. The theory of relativity is a scientific explanation of how time and space are related. Ancient Rome was a powerful civilization that existed thousands of years ago.
+2023-10-10 17:05:58 | INFO     | __main__:main:37 - Prompt 2 Output:
+2023-10-10 17:05:58 | INFO     | __main__:main:38 - `
+
+Photosynthesis is a complex biochemical process that occurs in plants, algae, and some bacteria. It involves the conversion of light energy from the sun into chemical energy in the form of glucose, which is used by the organism for growth and other metabolic processes. This process takes place in specialized organelles called chloroplasts, which contain the pigment chlorophyll. Chlorophyll absorbs light energy and uses it to split water molecules into hydrogen and oxygen. The hydrogen is then combined with carbon dioxide from the air to produce glucose, while the oxygen is released back into the atmosphere. This process is essential for sustaining life on Earth, as it is the primary source of oxygen and food for most living organisms.
+
+The theory of relativity, developed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, regardless of their relative velocity. It also introduces the concept of time dilation, where time appears to pass slower for objects moving at high speeds. The general theory of relativity expands on this by describing the effects of gravity on the
+2023-10-11 10:20:15 | INFO     | __main__:main:37 - Prompt 1 Output:
+2023-10-11 10:20:15 | INFO     | __main__:main:38 - `
+
+Photosynthesis is the process by which plants use sunlight to make food for themselves. The theory of relativity is a scientific explanation of how time and space are related. Ancient Rome was a powerful civilization that existed thousands of years ago.
+2023-10-11 10:20:15 | INFO     | __main__:main:37 - Prompt 2 Output:
+2023-10-11 10:20:15 | INFO     | __main__:main:38 - `
+
+Photosynthesis is a complex biochemical process that occurs in plants, algae, and some bacteria. It involves the conversion of light energy from the sun into chemical energy in the form of glucose, which is used by the organism for growth and other metabolic processes. This process takes place in specialized organelles called chloroplasts, which contain the pigment chlorophyll. Chlorophyll absorbs light energy and uses it to split water molecules into hydrogen and oxygen. The hydrogen is then combined with carbon dioxide from the air to produce glucose, while the oxygen is released back into the atmosphere. This process is essential for sustaining life on Earth, as it is the primary source of oxygen and food for most living organisms.
+
+The theory of relativity, developed by Albert Einstein, is a fundamental concept in physics that explains the relationship between space and time. It consists of two main theories: the special theory of relativity and the general theory of relativity. The special theory of relativity states that the laws of physics are the same for all observers in uniform motion, regardless of their relative velocity. It also introduces the concept of time dilation, where time appears to pass slower for objects moving at high speeds. The general theory of relativity expands on this by describing the effects of gravity on the

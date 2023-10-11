@@ -1,6 +1,7 @@
 {
     "model_type": "vertexai",
     "model_name": "text-bison@001",
+    "cache": "False",
     "temperature": 0.0,
-    "api_key":"AIzaSyBz0XvWWRPn24-zCPEecFITMIhikfKkAR4"
+    "api_key":"AIzaSyBRPn24-KkAR4"
 }

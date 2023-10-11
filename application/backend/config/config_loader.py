@@ -19,6 +19,8 @@ def load_config():
             config["model_type"] = os.environ["MODEL_TYPE"]
         if "MODEL_NAME" in os.environ:
             config["model_name"] = os.environ["MODEL_NAME"]
+        if "CACHE" in os.environ:
+            config["cache"] = os.environ["CACHE"]
         if "TEMPERATURE" in os.environ:
             config["temperature"] = float(os.environ["TEMPERATURE"])
         if "API_KEY" in os.environ:

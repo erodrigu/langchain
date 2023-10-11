@@ -22,13 +22,15 @@ def main(user_input=None):
         model = LanguageModelFactory.create_model(
             config["model_type"],
             config["model_name"],
-            config["temperature"],
+            config["cache"],
+            config["temperature"],            
             config["api_key"],
         )
 
         configure_logger()
 
         prompts = generate_prompts(user_input)
+
 
         prompt_executor = PromptExecutor(model, prompts)
         for i, output in enumerate(prompt_executor.execute_prompts()):
